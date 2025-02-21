@@ -20,13 +20,13 @@ This is a responsive login form UI built using Flutter. The design adapts to dif
  ## **Welcome Page**
 ![](./assets/Screenshot%20(273).png)
 
-## ** Sign In**
+## **Sign In**
 ![](./assets/Screenshot%20(274).png)
 
-## ** Sign Up**
+## **Sign Up**
 ![](./assets/Screenshot%20(275).png)
 
-## ** Forgotten Password**
+## **Forgotten Password**
 ![](./assets/Screenshot%20(276).png)
 
 ## Installation & Setup
