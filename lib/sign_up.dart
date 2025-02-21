@@ -251,8 +251,9 @@ class SignUpScreen extends StatelessWidget {
 
                       const Text(
                         "Already have an account?",
-                        style:
-                            TextStyle(fontSize: 21,  color: Color.fromARGB(255, 89, 87, 87)),
+                        style: TextStyle(
+                            fontSize: 21,
+                            color: Color.fromARGB(255, 89, 87, 87)),
                       ),
                       TextButton(
                         onPressed: () {

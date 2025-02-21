@@ -103,6 +103,7 @@ class SignInScreen extends StatelessWidget {
                         width: 350,
                         height: 70,
                         child: TextField(
+                       
                           decoration: InputDecoration(
                             prefixIcon: const Icon(Icons.mail, size: 27),
                             labelText: 'Email address',
@@ -139,6 +140,7 @@ class SignInScreen extends StatelessWidget {
                         width: 350,
                         height: 80,
                         child: TextField(
+                             obscureText: true,
                           decoration: InputDecoration(
                             prefixIcon: const Icon(Icons.lock, size: 27),
                             suffixIcon: IconButton(
@@ -148,6 +150,7 @@ class SignInScreen extends StatelessWidget {
                             ),
                             labelText: 'Enter password',
                             labelStyle: const TextStyle(
+                             
                               fontSize: 19.8,
                               color: Color.fromARGB(255, 89, 87, 87),
                               fontWeight: FontWeight.bold,

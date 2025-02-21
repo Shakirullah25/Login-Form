@@ -1,16 +1,54 @@
-# hospital_login_form
+# Login Form - A simple login form
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a responsive login form UI built using Flutter. The design adapts to different screen sizes, making it suitable for both mobile and tablet devices. Currently, it is only a UI implementation, with no backend functionality added yet.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Responsive Design:** Adjusts smoothly across various screen sizes.
+- **Modern UI:** Clean and minimalistic interface.
+- **Flutter-based:** Cross-platform compatibility.
+- **Custom Styling:** Custom fonts, colors, and layout.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- Flutter (Dart)
+- Google Fonts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+ ## **Welcome Page**
+![](./assets/Screenshot%20(273).png)
+
+## ** Sign In**
+![](./assets/Screenshot%20(274).png)
+
+## ** Sign Up**
+![](./assets/Screenshot%20(275).png)
+
+## ** Forgotten Password**
+![](./assets/Screenshot%20(276).png)
+
+## Installation & Setup
+```sh
+# Clone the repository
+git clone https://github.com/Shakirullah25/Login-Form.git
+
+# Navigate to the project directory
+cd hospital_login_form
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## Contributing
+### Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## Contact
+### For inquiries or collaborations:
+
+- **LinkedIn:** [Linkedin](www.linkedin.com/in/omotoso-shakirullah-7a8846347)
+- **GitHub:** [WhatsApp](https://wa.link/3ubr6d)

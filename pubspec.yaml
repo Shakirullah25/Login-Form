@@ -63,6 +63,11 @@ flutter:
   assets:
     - assets/more_horiz_option.svg  # Correctly formatted asset path
     - assets/Glamgologo.png
+    - assets/Screenshot (273).png
+    - assets/Screenshot (274).png
+    - assets/Screenshot (275).png
+    - assets/Screenshot (276).png
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
